@@ -4,7 +4,7 @@ module.exports = {
   description: `That is MasonMa's Personal blog.I mainly focus on Martime, Computer Science and NeuroScience.`,          // (* Required)
   author: `Mason Ma`,                         // (* Required)
   language: 'en-US',                        // (* Required) html lang, ex. 'en' | 'en-US' | 'ko' | 'ko-KR' | ...
-  siteUrl: 'https://masonyk.github.com',                      // (* Required)
+  siteUrl: 'https://masonyk.github.io',                      // (* Required)
     // ex.'https://junhobaik.github.io'
     // ex.'https://junhobaik.github.io/' << X, Do not enter "/" at the end.
 
